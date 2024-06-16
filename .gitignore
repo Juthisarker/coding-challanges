@@ -1,0 +1,6 @@
+
+# Ignore node_modules directories from any folder
+node_modules/
+**/.env
+
+*/credential.txt
